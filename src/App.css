@@ -1,0 +1,10 @@
+.tts-start,
+.tts-stop {
+  background-color: transparent;
+  transition: background-color 0.5s ease;
+}
+
+.tts-start:hover,
+.tts-stop:hover {
+  background-color: hsl(217.2 32.6% 17.5%);
+}
